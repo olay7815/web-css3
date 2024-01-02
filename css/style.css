@@ -91,3 +91,11 @@ body{
 #testimonials p:nth-child(2){
     margin-top: 25px;
 }
+#m4{
+    max-width: 340px;
+
+}
+#m1{
+    width: 100%;
+    height: 390px;
+}
